@@ -8,6 +8,7 @@ Implementation of the algorithm Transductive Support Vector Machine
 
 #### Algorithm
 
+![alt text](https://github.com/DanieleMugnaiSW/TransductiveSVM/blob/master/Alg.png)
 
 
 
